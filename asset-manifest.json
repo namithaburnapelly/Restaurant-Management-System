@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Restaurant-Management-System/static/css/main.1aff4dc5.css",
+    "main.js": "/Restaurant-Management-System/static/js/main.5ac5bdca.js",
+    "static/js/200.960d7923.chunk.js": "/Restaurant-Management-System/static/js/200.960d7923.chunk.js",
+    "static/js/539.96448cfa.chunk.js": "/Restaurant-Management-System/static/js/539.96448cfa.chunk.js",
+    "static/media/chefs.jpg": "/Restaurant-Management-System/static/media/chefs.fb484260a1f37d46178d.jpg",
+    "static/media/tree.png": "/Restaurant-Management-System/static/media/tree.7c8ba73824c5cf71cb5c.png",
+    "static/media/Res.jpg": "/Restaurant-Management-System/static/media/Res.79580531191f3ecda76f.jpg",
+    "static/media/cake.jpg": "/Restaurant-Management-System/static/media/cake.f2ef0bcddec844e64031.jpg",
+    "static/media/homeIcon1.jpg": "/Restaurant-Management-System/static/media/homeIcon1.3444b44e3711bf535e2c.jpg",
+    "static/media/reserve.jpg": "/Restaurant-Management-System/static/media/reserve.805f2de577b5f1813190.jpg",
+    "static/media/shopping-cart.gif": "/Restaurant-Management-System/static/media/shopping-cart.a790755f00de8296d45f.gif",
+    "static/media/p3.png": "/Restaurant-Management-System/static/media/p3.15cb72f8b42f2a8476f1.png",
+    "static/media/p1.png": "/Restaurant-Management-System/static/media/p1.b258f0d3b82554c0c83d.png",
+    "static/media/p2.png": "/Restaurant-Management-System/static/media/p2.286e897c45c1577931bd.png",
+    "static/media/p4.png": "/Restaurant-Management-System/static/media/p4.1c1f6cde49fa03b201b7.png",
+    "static/media/admin.avif": "/Restaurant-Management-System/static/media/admin.09b5ab1b1a5f1f4174eb.avif",
+    "static/media/laptop-order.jpg": "/Restaurant-Management-System/static/media/laptop-order.cfbad11a14d3f7a5b2e4.jpg",
+    "static/media/delivery.jpg": "/Restaurant-Management-System/static/media/delivery.ff671022602cd9d933fc.jpg",
+    "static/media/salad.png": "/Restaurant-Management-System/static/media/salad.92a4f93115bccefed31b.png",
+    "static/media/kitchen.png": "/Restaurant-Management-System/static/media/kitchen.bdd16e60564afab57258.png",
+    "static/media/dinner.png": "/Restaurant-Management-System/static/media/dinner.37de1b37dc124fb427c7.png",
+    "static/media/ice-cream-cup.png": "/Restaurant-Management-System/static/media/ice-cream-cup.950bc1e662e2c90f45f4.png",
+    "static/media/logo.webp": "/Restaurant-Management-System/static/media/logo.4ce82eb3ce26cc461d05.webp",
+    "static/media/google.png": "/Restaurant-Management-System/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/coke.png": "/Restaurant-Management-System/static/media/coke.aba055154090c5e1243f.png",
+    "static/media/safe.png": "/Restaurant-Management-System/static/media/safe.6305dc643048192b3f55.png",
+    "static/media/wine-bottle.png": "/Restaurant-Management-System/static/media/wine-bottle.4593476ab2c144de73a6.png",
+    "static/media/emptycart.webp": "/Restaurant-Management-System/static/media/emptycart.db985618501e80448a67.webp",
+    "index.html": "/Restaurant-Management-System/index.html",
+    "main.1aff4dc5.css.map": "/Restaurant-Management-System/static/css/main.1aff4dc5.css.map",
+    "main.5ac5bdca.js.map": "/Restaurant-Management-System/static/js/main.5ac5bdca.js.map",
+    "200.960d7923.chunk.js.map": "/Restaurant-Management-System/static/js/200.960d7923.chunk.js.map",
+    "539.96448cfa.chunk.js.map": "/Restaurant-Management-System/static/js/539.96448cfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aff4dc5.css",
+    "static/js/main.5ac5bdca.js"
+  ]
+}
