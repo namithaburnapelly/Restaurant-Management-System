@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Restaurant-Management-System/static/css/main.1aff4dc5.css",
-    "main.js": "/Restaurant-Management-System/static/js/main.5ac5bdca.js",
+    "main.js": "/Restaurant-Management-System/static/js/main.1e2959bf.js",
     "static/js/200.960d7923.chunk.js": "/Restaurant-Management-System/static/js/200.960d7923.chunk.js",
     "static/js/539.96448cfa.chunk.js": "/Restaurant-Management-System/static/js/539.96448cfa.chunk.js",
     "static/media/chefs.jpg": "/Restaurant-Management-System/static/media/chefs.fb484260a1f37d46178d.jpg",
@@ -30,12 +30,12 @@
     "static/media/emptycart.webp": "/Restaurant-Management-System/static/media/emptycart.db985618501e80448a67.webp",
     "index.html": "/Restaurant-Management-System/index.html",
     "main.1aff4dc5.css.map": "/Restaurant-Management-System/static/css/main.1aff4dc5.css.map",
-    "main.5ac5bdca.js.map": "/Restaurant-Management-System/static/js/main.5ac5bdca.js.map",
+    "main.1e2959bf.js.map": "/Restaurant-Management-System/static/js/main.1e2959bf.js.map",
     "200.960d7923.chunk.js.map": "/Restaurant-Management-System/static/js/200.960d7923.chunk.js.map",
     "539.96448cfa.chunk.js.map": "/Restaurant-Management-System/static/js/539.96448cfa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1aff4dc5.css",
-    "static/js/main.5ac5bdca.js"
+    "static/js/main.1e2959bf.js"
   ]
 }
